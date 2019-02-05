@@ -1,0 +1,36 @@
+Python 3.7.2 (v3.7.2:9a3ffc0492, Dec 24 2018, 02:44:43) 
+[Clang 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: /Users/shannonsprague/Documents/CS110/ShannonSpragueAssignment1/assignment1.py 
+This program will print out the total amount of change you have in dollars when you provide a count of each type of coin
+Please enter the number of quarters you have:  1
+Please enter the number of dimes you have:  4
+Please enter the number of nickels you have:  3
+Please enter the number of pennies you have:  1
+The total amount of change you have in dollars is $0.81
+>>> 
+ RESTART: /Users/shannonsprague/Documents/CS110/ShannonSpragueAssignment1/assignment1.py 
+This program will print out the total amount of change you have in dollars when you provide a count of each type of coin
+Please enter the number of quarters you have:  5
+Please enter the number of dimes you have:  2
+Please enter the number of nickels you have:  7
+Please enter the number of pennies you have:  8
+The total amount of change you have in dollars is $1.88
+>>> 
+ RESTART: /Users/shannonsprague/Documents/CS110/ShannonSpragueAssignment1/assignment1.py 
+This program will print out the total amount of change you have in dollars when you provide a count of each type of coin
+Please enter the number of quarters you have:  100
+Please enter the number of dimes you have:  4
+Please enter the number of nickels you have:  3
+Please enter the number of pennies you have:  1
+The total amount of change you have in dollars is $25.56
+>>> 
+ RESTART: /Users/shannonsprague/Documents/CS110/ShannonSpragueAssignment1/assignment1.py 
+This program will print out the total amount of change you have in dollars when you provide a count of each type of coin
+Please enter the number of quarters you have:  12
+Please enter the number of dimes you have:  3
+Please enter the number of nickels you have:  100
+Please enter the number of pennies you have:  2
+The total amount of change you have in dollars is $8.32
+>>> 
